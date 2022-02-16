@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Goodbye</string>
+    <string name="hello">Привітання</string>
+    <string name="counter">Рахуємо ворони</string>
+    <string name="counter_cats">Рахуємо котів</string>
+    <string name="text">Рахуємо\nкоти:\nворони:</string>
+    <string name="caws0">Обнулити ворон</string>
+    <string name="cats0">Обнулити котів</string>
+</resources>
